@@ -53,5 +53,6 @@ applications that come with the Device Maintenance(Smart Manager) package
         <permission name="android.permission.POST_NOTIFICATIONS" />
         <permission name="android.permission.CONTROL_KEYGUARD" />
 		<permission name="android.permission.SCHEDULE_EXACT_ALARM"/>
+		<permission name="com.samsung.android.permission.RESIDENT_SWAP"/>
     </privapp-permissions>
 </permissions>
